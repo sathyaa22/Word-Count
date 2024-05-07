@@ -25,9 +25,9 @@ Print the total number of words in the file.
 
 ## PROGRAM:
 
-#Developed by SATHYAA R
+#Developed by RAMYA R
 
-#Register Number 212223100052
+#Register Number 21222320169
 ```
 def fun(filename):
     NoOfWords=0
@@ -42,8 +42,8 @@ fun(filename)
 
 ### OUTPUT:
 
-![alt text](<9 pyth.jpg>)
-![alt text](<9 pyth op.jpg>)
+![alt text](<WhatsApp Image 2024-04-29 at 14.54.31_802c9b92.jpg>)
+![alt text](<WhatsApp Image 2024-04-29 at 14.55.08_ffcaab08.jpg>)
 
 ## RESULT:
 Thus the program is written to find the word count from a text.
