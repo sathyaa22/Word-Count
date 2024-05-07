@@ -42,7 +42,7 @@ fun(filename)
 
 ### OUTPUT:
 
-![alt text](<9 pyth-1.jpg>)
+![alt text](<9 pyth.jpg>)
 ![alt text](<9 pyth op.jpg>)
 
 ## RESULT:
